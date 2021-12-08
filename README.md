@@ -9,10 +9,8 @@ The notebook is structured as follows:
 
 1. Loading and inspecting data
 2. Data cleaning and Exploratory Data Analysis - EDA
-3. Classification
-4. Clustering
-5. Conclusions 
-6. Future work
+3. Clustering
+4. Conclusions 
 
 # About Lucy
 Hi, I'm Lucy! I am a data scientist and computational chemist. I'm co-founder of [Women in Bioinformatics and Data Science in Latin America](https://wbds.la/), lead of PyLadies Colombia, and member of Data Umbrella community.
