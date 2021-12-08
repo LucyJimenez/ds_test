@@ -17,5 +17,5 @@ The notebook is structured as follows:
 # About Lucy
 Hi, I'm Lucy! I am a data scientist and computational chemist. I'm co-founder of [Women in Bioinformatics and Data Science in Latin America](https://wbds.la/), lead of PyLadies Colombia, and member of Data Umbrella community.
 
-https://twitter.com/JimenezLucyJ
-https://www.linkedin.com/in/lucy-j/
+* https://twitter.com/JimenezLucyJ
+* https://www.linkedin.com/in/lucy-j/
